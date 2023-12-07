@@ -104,7 +104,7 @@ div.social-media {
 @media only screen and (max-device-width: 900px) {
     main {
         width: 300px;
-        margin-top: 50px;
+        margin-top: 10px;
     }
     
     p.title{
@@ -127,5 +127,9 @@ div.social-media {
     img.me {
         max-width: 200px;
         max-height: 200px;
+    }
+
+    div.social-media {
+        padding-top: 30px;
     }
 }
