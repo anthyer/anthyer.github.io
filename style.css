@@ -100,3 +100,31 @@ div.social-media {
     margin-right: auto; 
     margin-left: auto;
 }
+
+@media only screen and (max-device-width: 900px) {
+    main {
+        width: 300px;
+    }
+    
+    p.title{
+        font-size: 12pt;
+    }
+    
+    p.title-pt {
+        font-size: 12pt;
+    }
+    
+    p.name {
+        font-size: 18pt;
+    }
+
+    button {
+        font-size: 14pt;
+        border-radius: 8px;
+    }    
+
+    img.me {
+        max-width: 200px;
+        max-height: 200px;
+    }
+}
