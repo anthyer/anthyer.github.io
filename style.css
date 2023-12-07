@@ -104,6 +104,7 @@ div.social-media {
 @media only screen and (max-device-width: 900px) {
     main {
         width: 300px;
+        margin-top: 50px;
     }
     
     p.title{
